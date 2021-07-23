@@ -31,7 +31,7 @@
       "currency": {
         "type": "string",
         "propertyNames": {
-          "pattern": "[RUB][USD]"
+          "pattern": "RUB|USD"
         }
       }
     }
